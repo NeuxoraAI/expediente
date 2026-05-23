@@ -1,7 +1,13 @@
 *.ss~
 *.ss#*
 .#*.ss
-
 *.scm~
 *.scm#*
 .#*.scm
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+dist/
+build/
+*.egg-info/
